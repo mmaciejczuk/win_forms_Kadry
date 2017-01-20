@@ -1,0 +1,66 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="CompanyHR.master.cs" Inherits="Kadry.CompanyHR" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<title>Human Resources Management</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="Styles/style.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="Styles/coin-slider.css" />
+<script type="text/javascript" src="js/..."></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <div class="main">
+          <div class="header">
+            <div class="header_resize">
+              <div class="menu_nav">
+                <ul>
+                  <li class="active"><a href="index.html"><span>Start</span></a></li>
+                  <li><a href="support.html"><span>Support</span></a></li>
+                  <li><a href="about.html"><span>About Us</span></a></li>
+                  <li><a href="blog.html"><span>Blog</span></a></li>
+                  <li><a href="contact.html"><span>Contact Us</span></a></li>
+                </ul>
+              </div>
+              <div class="searchform">  <!-- loginform -->
+
+
+              </div>
+              <div class="clr"></div>
+              <div class="logo">
+                <h1><a href="index.html">HR Management<small>Advertising Company</small></a></h1>
+              </div>
+              <div class="clr"></div>
+              <div class="slider">
+
+              </div>
+              <div class="clr"></div>
+            </div>
+          </div>
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+            </asp:ContentPlaceHolder>
+
+          <div class="fbg">
+
+          </div>
+          <div class="footer">
+            <div class="footer_resize">
+              <p class="lf">Copyright &copy; <a href="#">Politechnika Białostocka 2015</a>. All Rights Reserved</p>
+              <p class="rf">Design by <a target="_blank" href="http://pb.edu.pl//">Student</a></p>
+              <div style="clear:both;"></div>
+            </div>
+          </div>
+        </div>
+
+
+    </div>
+    </form>
+</body>
+</html>

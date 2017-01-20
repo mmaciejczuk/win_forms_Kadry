@@ -1,0 +1,48 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Default.master.cs" Inherits="Kadry.Master.Default" %>
+
+<!DOCTYPE html>
+
+
+<head runat="server">
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+        <style>
+            .content2
+            {
+                /* Internet Explorer 10 */
+                display:-ms-flexbox;
+                -ms-flex-pack:center;
+                -ms-flex-align:center;
+                /* Firefox */
+                display:-moz-box;
+                -moz-box-pack:center;
+                -moz-box-align:center;
+                /* Safari, Opera, and Chrome */
+                display:-webkit-box;
+                -webkit-box-pack:center;
+                -webkit-box-align:center;
+            }
+        </style>
+    </asp:ContentPlaceHolder>
+<title>Human Resources Management</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="/styles/style.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="/styles/coin-slider.css" />
+<script type="text/javascript" src="/js/..."></script>
+</head>
+
+<body>
+<form id="form1" runat="server">
+
+
+
+  <div class="content2">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+  </div>
+
+ 
+ </form>
+
+</body>

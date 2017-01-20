@@ -1,0 +1,204 @@
+I:\PRACE DYPLOMOWE\KADRY\Kadry\Kadry\bin\Kadry.dll
+I:\PRACE DYPLOMOWE\KADRY\Kadry\Kadry\bin\Kadry.pdb
+I:\PRACE DYPLOMOWE\KADRY\Kadry\Kadry\bin\Antlr3.Runtime.dll
+I:\PRACE DYPLOMOWE\KADRY\Kadry\Kadry\bin\AspNet.ScriptManager.jQuery.dll
+I:\PRACE DYPLOMOWE\KADRY\Kadry\Kadry\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+I:\PRACE DYPLOMOWE\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.AspNet.dll
+I:\PRACE DYPLOMOWE\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.Core.dll
+I:\PRACE DYPLOMOWE\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.OAuth.Consumer.dll
+I:\PRACE DYPLOMOWE\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.OAuth.dll
+I:\PRACE DYPLOMOWE\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.OpenId.dll
+I:\PRACE DYPLOMOWE\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+I:\PRACE DYPLOMOWE\KADRY\Kadry\Kadry\bin\EntityFramework.dll
+I:\PRACE DYPLOMOWE\KADRY\Kadry\Kadry\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+I:\PRACE DYPLOMOWE\KADRY\Kadry\Kadry\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+I:\PRACE DYPLOMOWE\KADRY\Kadry\Kadry\bin\Microsoft.ScriptManager.MSAjax.dll
+I:\PRACE DYPLOMOWE\KADRY\Kadry\Kadry\bin\Microsoft.ScriptManager.WebForms.dll
+I:\PRACE DYPLOMOWE\KADRY\Kadry\Kadry\bin\Microsoft.Web.Infrastructure.dll
+I:\PRACE DYPLOMOWE\KADRY\Kadry\Kadry\bin\System.Web.Optimization.dll
+I:\PRACE DYPLOMOWE\KADRY\Kadry\Kadry\bin\System.Web.Providers.dll
+I:\PRACE DYPLOMOWE\KADRY\Kadry\Kadry\bin\WebGrease.dll
+I:\PRACE DYPLOMOWE\KADRY\Kadry\Kadry\bin\EntityFramework.xml
+I:\PRACE DYPLOMOWE\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.Core.xml
+I:\PRACE DYPLOMOWE\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.OAuth.xml
+I:\PRACE DYPLOMOWE\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.OAuth.Consumer.xml
+I:\PRACE DYPLOMOWE\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.OpenId.xml
+I:\PRACE DYPLOMOWE\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+I:\PRACE DYPLOMOWE\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.AspNet.xml
+I:\PRACE DYPLOMOWE\KADRY\Kadry\Kadry\obj\Debug\Kadry.csprojResolveAssemblyReference.cache
+I:\PRACE DYPLOMOWE\KADRY\Kadry\Kadry\obj\Debug\Kadry.dll
+I:\PRACE DYPLOMOWE\KADRY\Kadry\Kadry\obj\Debug\Kadry.pdb
+I:\PRACE DYPLOMOWE2\KADRY\Kadry\Kadry\bin\Kadry.dll
+I:\PRACE DYPLOMOWE2\KADRY\Kadry\Kadry\bin\Kadry.pdb
+I:\PRACE DYPLOMOWE2\KADRY\Kadry\Kadry\bin\Antlr3.Runtime.dll
+I:\PRACE DYPLOMOWE2\KADRY\Kadry\Kadry\bin\AspNet.ScriptManager.jQuery.dll
+I:\PRACE DYPLOMOWE2\KADRY\Kadry\Kadry\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+I:\PRACE DYPLOMOWE2\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.AspNet.dll
+I:\PRACE DYPLOMOWE2\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.Core.dll
+I:\PRACE DYPLOMOWE2\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.OAuth.Consumer.dll
+I:\PRACE DYPLOMOWE2\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.OAuth.dll
+I:\PRACE DYPLOMOWE2\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.OpenId.dll
+I:\PRACE DYPLOMOWE2\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+I:\PRACE DYPLOMOWE2\KADRY\Kadry\Kadry\bin\EntityFramework.dll
+I:\PRACE DYPLOMOWE2\KADRY\Kadry\Kadry\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+I:\PRACE DYPLOMOWE2\KADRY\Kadry\Kadry\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+I:\PRACE DYPLOMOWE2\KADRY\Kadry\Kadry\bin\Microsoft.ScriptManager.MSAjax.dll
+I:\PRACE DYPLOMOWE2\KADRY\Kadry\Kadry\bin\Microsoft.ScriptManager.WebForms.dll
+I:\PRACE DYPLOMOWE2\KADRY\Kadry\Kadry\bin\Microsoft.Web.Infrastructure.dll
+I:\PRACE DYPLOMOWE2\KADRY\Kadry\Kadry\bin\System.Web.Optimization.dll
+I:\PRACE DYPLOMOWE2\KADRY\Kadry\Kadry\bin\System.Web.Providers.dll
+I:\PRACE DYPLOMOWE2\KADRY\Kadry\Kadry\bin\WebGrease.dll
+I:\PRACE DYPLOMOWE2\KADRY\Kadry\Kadry\bin\EntityFramework.xml
+I:\PRACE DYPLOMOWE2\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.Core.xml
+I:\PRACE DYPLOMOWE2\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.OAuth.xml
+I:\PRACE DYPLOMOWE2\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.OAuth.Consumer.xml
+I:\PRACE DYPLOMOWE2\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.OpenId.xml
+I:\PRACE DYPLOMOWE2\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+I:\PRACE DYPLOMOWE2\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.AspNet.xml
+I:\PRACE DYPLOMOWE2\KADRY\Kadry\Kadry\obj\Debug\Kadry.csprojResolveAssemblyReference.cache
+I:\PRACE DYPLOMOWE2\KADRY\Kadry\Kadry\obj\Debug\Kadry.dll
+I:\PRACE DYPLOMOWE2\KADRY\Kadry\Kadry\obj\Debug\Kadry.pdb
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\Kadry.dll
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\Kadry.pdb
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\Antlr3.Runtime.dll
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\AspNet.ScriptManager.jQuery.dll
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.AspNet.dll
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.Core.dll
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.OAuth.Consumer.dll
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.OAuth.dll
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.OpenId.dll
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\EntityFramework.dll
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\Microsoft.ScriptManager.MSAjax.dll
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\Microsoft.ScriptManager.WebForms.dll
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\Microsoft.Web.Infrastructure.dll
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\System.Web.Optimization.dll
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\System.Web.Providers.dll
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\WebGrease.dll
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\EntityFramework.xml
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.Core.xml
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.OAuth.xml
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.OAuth.Consumer.xml
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.OpenId.xml
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.AspNet.xml
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\obj\Debug\Kadry.dll
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\obj\Debug\Kadry.pdb
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\AjaxControlToolkit.dll
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\AjaxControlToolkit.pdb
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\ar\AjaxControlToolkit.resources.dll
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\cs\AjaxControlToolkit.resources.dll
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\de\AjaxControlToolkit.resources.dll
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\es\AjaxControlToolkit.resources.dll
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\fr\AjaxControlToolkit.resources.dll
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\he\AjaxControlToolkit.resources.dll
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\hi\AjaxControlToolkit.resources.dll
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\it\AjaxControlToolkit.resources.dll
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\ja\AjaxControlToolkit.resources.dll
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\ko\AjaxControlToolkit.resources.dll
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\nl\AjaxControlToolkit.resources.dll
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\pt\AjaxControlToolkit.resources.dll
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\ru\AjaxControlToolkit.resources.dll
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\tr-TR\AjaxControlToolkit.resources.dll
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\zh-CHS\AjaxControlToolkit.resources.dll
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\Kadry.dll.config
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\Kadry.dll
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\Kadry.pdb
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\Antlr3.Runtime.dll
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.Core.dll
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\EntityFramework.dll
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\System.Web.Optimization.dll
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\System.Web.Providers.dll
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\WebGrease.dll
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\EntityFramework.xml
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.Core.xml
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\obj\Debug\Kadry.csprojResolveAssemblyReference.cache
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\obj\Debug\Kadry.dll
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\obj\Debug\Kadry.pdb
+I:\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\obj\Debug\Kadry.csprojResolveAssemblyReference.cache
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\AjaxControlToolkit.pdb
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\mariusz.maciejczuk\Desktop\Chomik\PRACE DYPLOMOWE3\KADRY\Kadry\Kadry\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\code\Kadry\Kadry\bin\Kadry.dll.config
+D:\code\Kadry\Kadry\bin\Kadry.dll
+D:\code\Kadry\Kadry\bin\Kadry.pdb
+D:\code\Kadry\Kadry\bin\Antlr3.Runtime.dll
+D:\code\Kadry\Kadry\bin\AspNet.ScriptManager.jQuery.dll
+D:\code\Kadry\Kadry\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\code\Kadry\Kadry\bin\DotNetOpenAuth.AspNet.dll
+D:\code\Kadry\Kadry\bin\DotNetOpenAuth.Core.dll
+D:\code\Kadry\Kadry\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\code\Kadry\Kadry\bin\DotNetOpenAuth.OAuth.dll
+D:\code\Kadry\Kadry\bin\DotNetOpenAuth.OpenId.dll
+D:\code\Kadry\Kadry\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\code\Kadry\Kadry\bin\EntityFramework.dll
+D:\code\Kadry\Kadry\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\code\Kadry\Kadry\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\code\Kadry\Kadry\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\code\Kadry\Kadry\bin\Microsoft.ScriptManager.WebForms.dll
+D:\code\Kadry\Kadry\bin\Microsoft.Web.Infrastructure.dll
+D:\code\Kadry\Kadry\bin\System.Web.Optimization.dll
+D:\code\Kadry\Kadry\bin\System.Web.Providers.dll
+D:\code\Kadry\Kadry\bin\WebGrease.dll
+D:\code\Kadry\Kadry\bin\AjaxControlToolkit.pdb
+D:\code\Kadry\Kadry\bin\EntityFramework.xml
+D:\code\Kadry\Kadry\bin\DotNetOpenAuth.Core.xml
+D:\code\Kadry\Kadry\bin\DotNetOpenAuth.OAuth.xml
+D:\code\Kadry\Kadry\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\code\Kadry\Kadry\bin\DotNetOpenAuth.OpenId.xml
+D:\code\Kadry\Kadry\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\code\Kadry\Kadry\bin\DotNetOpenAuth.AspNet.xml
+D:\code\Kadry\Kadry\bin\ar\AjaxControlToolkit.resources.dll
+D:\code\Kadry\Kadry\bin\cs\AjaxControlToolkit.resources.dll
+D:\code\Kadry\Kadry\bin\de\AjaxControlToolkit.resources.dll
+D:\code\Kadry\Kadry\bin\es\AjaxControlToolkit.resources.dll
+D:\code\Kadry\Kadry\bin\fr\AjaxControlToolkit.resources.dll
+D:\code\Kadry\Kadry\bin\he\AjaxControlToolkit.resources.dll
+D:\code\Kadry\Kadry\bin\hi\AjaxControlToolkit.resources.dll
+D:\code\Kadry\Kadry\bin\it\AjaxControlToolkit.resources.dll
+D:\code\Kadry\Kadry\bin\ja\AjaxControlToolkit.resources.dll
+D:\code\Kadry\Kadry\bin\ko\AjaxControlToolkit.resources.dll
+D:\code\Kadry\Kadry\bin\nl\AjaxControlToolkit.resources.dll
+D:\code\Kadry\Kadry\bin\pt\AjaxControlToolkit.resources.dll
+D:\code\Kadry\Kadry\bin\ru\AjaxControlToolkit.resources.dll
+D:\code\Kadry\Kadry\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\code\Kadry\Kadry\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\code\Kadry\Kadry\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\code\Kadry\Kadry\obj\Debug\Kadry.csprojResolveAssemblyReference.cache
+D:\code\Kadry\Kadry\obj\Debug\Kadry.dll
+D:\code\Kadry\Kadry\obj\Debug\Kadry.pdb

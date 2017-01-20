@@ -1,0 +1,144 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Ksiegowosc.master.cs" Inherits="Kadry.Master.Ksiegowosc" %>
+<!DOCTYPE html>
+<html lang="en">
+<head id="Head1" runat="server">
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+<style>
+
+</style>
+<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+<script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js">
+$('.sb_menu li > a').click(function() {
+
+    if($(this).hasClass('active') == true) {
+        $(this).removeClass('active');
+    }
+    else {
+        $('li > a.active').removeClass('active');
+        $(this).addClass('active');
+    }
+});
+</script>
+
+    </asp:ContentPlaceHolder>
+<title>Human Resources Management</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="/styles/style.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="/styles/coin-slider.css" />
+<script type="text/javascript" src="/js/..."></script>
+    <style>
+
+    </style>
+</head>
+<body>
+<form id="form1" runat="server">
+
+
+<div class="main">
+  <div class="header">
+    <div class="header_resize">
+      <div class="menu_nav">
+        <ul>
+          <li class="active"><a href="/PRACOWNIK/Default.aspx"><span>DZIAŁ KSIĘGOWOŚCI</span></a></li>
+        </ul>
+    </div>
+
+      <div class="searchform">
+        <div id="divImieNazw">
+           <asp:LinkButton ID="lbImieNazwisko" runat="server"></asp:LinkButton>    
+            <br />
+           <asp:LinkButton ID="lbWyloguj" runat="server" Text="Wyloguj się"
+               PostBackUrl="~/Start.aspx"></asp:LinkButton>  
+        </div>
+        <div id="divImage">
+          <asp:Image ID="ImagePlec" runat="server" />
+        </div>
+
+       </div>
+
+      <div class="clr"></div>
+      <div class="logo">
+        <h1><a href="index.html">HR Management<small>Advertising Company</small></a></h1>
+      </div>
+      <div class="clr"></div>
+      <div class="slider">
+
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+  <div class="content">
+    <div class="content_resize">
+      <div class="mainbar">
+        <div class="article">
+
+        </div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+        <div class="article">
+
+        </div>
+
+      </div>
+      <div class="sidebar">
+        <div class="gadget">
+          <h2 class="star"><span></span> Menu</h2>
+          <div class="clr"></div>
+<%--          <ul class="sb_menu">
+            <li><a href="/PRACOWNIK/Urlopy.aspx" id="urlopyLi">Wnioski urlopowe</a></li>
+            <li><a href="/PRACOWNIK/Wnioski_inne.aspx" id="wnioskiLi">Wnioski pozostałe</a></li>
+            <li><a href="/PRACOWNIK/Szkolenia.aspx" id="szkoleniaLi">Szkolenia</a></li>
+            <li><a href="/PRACOWNIK/Badania.aspx" id="badaniaLi">Badania</a></li>
+            <li><a href="/PRACOWNIK/Dane_pracownika.aspx" id="daneLi">Dane pracownika</a></li>
+            <li><a href="/PRACOWNIK/Wiadomosci.aspx" id="wiadomosciLi">Wiadomości</a></li>
+          </ul>--%>
+            <asp:TreeView ID="TreeView1" runat="server" ForeColor="#0066CC" Height="277px" 
+                ImageSet="Inbox" Width="216px" Font-Size="Larger" ShowLines="True">
+                <HoverNodeStyle Font-Underline="True" />
+                <Nodes>
+                    <asp:TreeNode Text="Pracownicy" Value="Pracownicy" NavigateUrl="~\KADRY\Pracownicy.aspx">
+                        <asp:TreeNode Text="Dane pracowników" Value="Dane_pracownikow" NavigateUrl="~\KADRY\Dane_pracownikow.aspx"></asp:TreeNode>
+                        <asp:TreeNode Text="Urlopy pracowników" Value="Urlopy_pracownikow" NavigateUrl="~\KADRY\Urlopy_pracownikow.aspx"></asp:TreeNode>
+                        <asp:TreeNode Text="Szkolenia" Value="Szkolenia" NavigateUrl="~\KADRY\Szkolenia.aspx"></asp:TreeNode>
+                        <asp:TreeNode Text="Badania" Value="Badania" NavigateUrl="~\KADRY\Badania.aspx"></asp:TreeNode>
+                    </asp:TreeNode>
+                    <asp:TreeNode Text="Wnioski" Value="Wnioski" NavigateUrl="~\KADRY\Wnioski.aspx">
+                        <asp:TreeNode Text="Wnioski urlopowe" Value="Wnioski urlopowe" NavigateUrl="~\KADRY\Wnioski_urlopowe.aspx"></asp:TreeNode>
+                        <asp:TreeNode Text="Wnioski inne" Value="Wnioski inne" NavigateUrl="~\KADRY\Wnioski_inne.aspx"></asp:TreeNode>
+                    </asp:TreeNode>
+                    <asp:TreeNode Text="Wiadomości" Value="Wiadomosci" NavigateUrl="~\KADRY\Wiadomosci.aspx"></asp:TreeNode>
+                </Nodes>
+                <NodeStyle Font-Names="Verdana" Font-Size="8pt" ForeColor="Black" HorizontalPadding="5px" NodeSpacing="0px" VerticalPadding="0px" />
+                <ParentNodeStyle Font-Bold="False" />
+                <SelectedNodeStyle Font-Underline="True" HorizontalPadding="0px" VerticalPadding="0px" />
+            </asp:TreeView>
+        </div>
+
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+  <div class="fbg">
+
+  </div>
+  <div class="footer">
+    <div class="footer_resize">
+      <p class="lf">Copyright &copy; <a href="#">Politechnika Białostocka 2015</a>. All Rights Reserved</p>
+      <p class="rf">Design by <a target="_blank" href="http://pb.edu.pl//">Student</a></p>
+      <div style="clear:both;"></div>
+    </div>
+  </div>
+</div>
+   
+
+
+  <div class="content2">
+
+  </div>
+
+ 
+ </form>
+    </body>
+</html>
